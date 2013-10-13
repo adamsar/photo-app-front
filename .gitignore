@@ -1,0 +1,8 @@
+#Phone gap compiled stuff
+merges/*
+platforms/*
+plugins/*
+
+#Emacs
+*~
+*#
